@@ -1,4 +1,5 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-![](https://leetcard.jacoblin.cool/bhanuking631?cache=0)
+![](https://leetcard.jacoblin.cool/bhanuking631?ext=heatmap)
+
 
