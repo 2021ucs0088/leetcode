@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/2021ucs0088/leetcode/tree/master/0091-decode-ways) |
+| [0416-partition-equal-subset-sum](https://github.com/2021ucs0088/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/2021ucs0088/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
