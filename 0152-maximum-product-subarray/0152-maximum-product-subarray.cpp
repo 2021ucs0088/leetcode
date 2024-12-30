@@ -2,21 +2,16 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n=nums.size();
-        vector<int>dp(n);
+        int curmin=nums[0];
+        int curmax=nums[0];
         int result=nums[0];
-        int currentmax=nums[0];
-        int currentmin=nums[0];
-        for (int i=1;i<n;i++){
-            int temp=currentmax;
-            currentmax=max(nums[i],max(currentmax*nums[i],currentmin*nums[i]));
-            currentmin=min(nums[i],min(temp*nums[i],currentmin*nums[i]));
-
-
-
-
-
-            result=max({result,currentmax,currentmin});
+        for (int i=1 ; i<n ; i++){
+            int temp=curmax;
+            curmax=max(nums[i],max(curmax*nums[i],curmin*nums[i]));
+            curmin=min(nums[i],min(curmin*nums[i],temp*nums[i]));
+            result=max(result,curmax);
         }
         return result;
+        
     }
 };
