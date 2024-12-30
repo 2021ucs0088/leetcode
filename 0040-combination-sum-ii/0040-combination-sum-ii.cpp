@@ -1,38 +1,32 @@
-#include <vector>
-#include <algorithm>
-#include <numeric>
-
-using namespace std;
-
 class Solution {
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());  // Sort candidates to handle duplicates
-        vector<vector<int>> result;
-        vector<int> path;
-        func(result, path, candidates, target, 0);
+        vector<vector<int>>result;
+        sort(candidates.begin(),candidates.end());
+        vector<int>subset;
+        func(candidates,result,subset,target,0);
         return result;
+
     }
+    void func(vector<int>& candidates,vector<vector<int>> &result,vector<int>&subset,int &target,int index){
+        int x=accumulate(subset.begin(),subset.end(),0);
+        if(x==target){
+            if(find(result.begin(),result.end(),subset) ==result.end()){
+                result.push_back(subset);
 
-private:
-    void func(vector<vector<int>>& result, vector<int>& path, vector<int>& candidates, int target, int start) {
-        int csum = accumulate(path.begin(), path.end(), 0); 
-
-        if (csum == target && find(result.begin(), result.end(), path) == result.end()) {
-            result.push_back(path);
-            return;
+            }
+            
         }
-
-        if (csum > target) {
-            return;
+        if(x>target){
+            return ;
         }
-
-        for (int i = start; i < candidates.size(); i++) {
-            if (i > start && candidates[i] == candidates[i - 1]) continue;  // Skip duplicates
-
-            path.push_back(candidates[i]);
-            func(result, path, candidates, target, i + 1);
-            path.pop_back();
+        for(int i=index;i<candidates.size();i++){
+            if(i>index && candidates[i]==candidates[i-1]){
+                continue;
+            }
+            subset.push_back(candidates[i]);
+            func(candidates,result,subset,target,i+1);
+            subset.pop_back();
         }
     }
 };
