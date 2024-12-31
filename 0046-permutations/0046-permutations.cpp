@@ -2,23 +2,23 @@ class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>result;
-        vector<int>path;
-        func(result,path,nums,0);
+        vector<int>subset;
+        func(result,subset,nums);
         return result;
-        
+
     }
-    void func(vector<vector<int>>&result,vector<int>&path,vector<int>& nums,int start){
-        if (path.size()==nums.size()){
-            result.push_back(path);
+    void func(vector<vector<int>>&result,vector<int>&subset,vector<int>& nums){
+        if(subset.size()==nums.size()){
+            result.push_back(subset);
         }
-        for (int i=start;i<nums.size();i++){
-            if (find(path.begin(),path.end(),nums[i]) ==path.end()){
-                path.push_back(nums[i]);
-                func(result,path,nums,start);
-                path.pop_back();
-
+        for(int i=0;i<nums.size();i++){
+            if(find(subset.begin(),subset.end(),nums[i]) ==subset.end()){
+                subset.push_back(nums[i]);
+                func(result,subset,nums);
+                subset.pop_back();
             }
-        }
+            
 
+        }
     }
 };
