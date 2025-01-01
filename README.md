@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Backtracking
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Matrix
 |  |
 | ------- |
