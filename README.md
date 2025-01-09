@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/2021ucs0088/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/2021ucs0088/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/2021ucs0088/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/2021ucs0088/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -166,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
