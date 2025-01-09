@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2021ucs0088/leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/2021ucs0088/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/2021ucs0088/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/2021ucs0088/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -111,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -153,9 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
