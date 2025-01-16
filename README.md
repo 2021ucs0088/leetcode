@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/2021ucs0088/leetcode/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/2021ucs0088/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/2021ucs0088/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -222,10 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/2021ucs0088/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
