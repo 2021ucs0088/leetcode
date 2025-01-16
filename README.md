@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/2021ucs0088/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/2021ucs0088/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/2021ucs0088/leetcode/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/2021ucs0088/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/2021ucs0088/leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/2021ucs0088/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -227,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
