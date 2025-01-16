@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/2021ucs0088/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1656-count-good-triplets](https://github.com/2021ucs0088/leetcode/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/2021ucs0088/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/2021ucs0088/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
