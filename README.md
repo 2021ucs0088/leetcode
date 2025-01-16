@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2021ucs0088/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/2021ucs0088/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/2021ucs0088/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2021ucs0088/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
