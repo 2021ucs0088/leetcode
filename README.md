@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2021ucs0088/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/2021ucs0088/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/2021ucs0088/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
