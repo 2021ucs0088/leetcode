@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/2021ucs0088/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/2021ucs0088/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/2021ucs0088/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/2021ucs0088/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Stack
 |  |
