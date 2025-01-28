@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/2021ucs0088/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/2021ucs0088/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/2021ucs0088/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
