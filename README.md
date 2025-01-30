@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/2021ucs0088/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/2021ucs0088/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/2021ucs0088/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/2021ucs0088/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/2021ucs0088/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/2021ucs0088/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Trie
 |  |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
