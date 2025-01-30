@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/2021ucs0088/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/2021ucs0088/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/2021ucs0088/leetcode/tree/master/0463-island-perimeter) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/2021ucs0088/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/2021ucs0088/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/2021ucs0088/leetcode/tree/master/0463-island-perimeter) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/2021ucs0088/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/2021ucs0088/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/2021ucs0088/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/2021ucs0088/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1558-course-schedule-iv](https://github.com/2021ucs0088/leetcode/tree/master/1558-course-schedule-iv) |
