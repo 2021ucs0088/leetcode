@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/2021ucs0088/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/2021ucs0088/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/2021ucs0088/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Union Find
 |  |
