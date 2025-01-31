@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2145-grid-game](https://github.com/2021ucs0088/leetcode/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/2021ucs0088/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2342-minimum-average-difference](https://github.com/2021ucs0088/leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/2021ucs0088/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/2021ucs0088/leetcode/tree/master/2145-grid-game) |
+| [2342-minimum-average-difference](https://github.com/2021ucs0088/leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/2021ucs0088/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bucket Sort
