@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2021ucs0088/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/2021ucs0088/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/2021ucs0088/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/2021ucs0088/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/2021ucs0088/leetcode/tree/master/2145-grid-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bucket Sort
 |  |
 | ------- |
