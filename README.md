@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/2021ucs0088/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2021ucs0088/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/2021ucs0088/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/2021ucs0088/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/2021ucs0088/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/2021ucs0088/leetcode/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/2021ucs0088/leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/2021ucs0088/leetcode/tree/master/2358-number-of-ways-to-split-array) |
