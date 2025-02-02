@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/2021ucs0088/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/2021ucs0088/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2021ucs0088/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/2021ucs0088/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/2021ucs0088/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/2021ucs0088/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/2021ucs0088/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/2021ucs0088/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Math
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/2021ucs0088/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/2021ucs0088/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/2021ucs0088/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/2021ucs0088/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Stack
