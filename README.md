@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/2021ucs0088/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2021ucs0088/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2021ucs0088/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/2021ucs0088/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2021ucs0088/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
