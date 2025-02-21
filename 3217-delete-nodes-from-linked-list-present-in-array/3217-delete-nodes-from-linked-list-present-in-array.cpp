@@ -11,32 +11,29 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        ListNode* current = head;
-        ListNode* prev = nullptr;
-        set<int>s;
-        for (auto ele:nums){
-            s.insert(ele);
+        ListNode * current=head;
+        if(head==nullptr){
+            return head;
         }
-        
-        while (current != nullptr) {
-            if (s.find(current->val) !=s.end()) {
-                if (prev == nullptr) {
-                    // Head needs to be removed
-                    head = current->next;
-                    delete current;
-                    current = head;
-                } else {
-                    // Non-head node needs to be removed
-                    prev->next = current->next;
-                    delete current;
-                    current = prev->next;
-                }
-            } else {
-                prev = current;
-                current = current->next;
+        set<int>s(nums.begin(),nums.end());
+        ListNode*dummy=new ListNode();
+        ListNode*c=dummy;
+        while(current){
+            if(s.find(current->val) ==s.end()){
+                c->next=current;
+                c=c->next;
+                current=current->next;
+                
+
             }
+            else{
+                current=current->next;
+
+            }
+            
         }
-        
-        return head;
+        c->next=nullptr;
+        return dummy->next;
+
     }
 };
