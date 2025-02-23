@@ -3,16 +3,34 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int r = grid.size();
         int c = grid[0].size();
-        if(r==1 && c==1 && grid[0][0]==0){
-            return 0;
+        int empty=0;
+        int fresh=0;
+        int rotten=0;
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(grid[i][j]==0){
+                    empty++;
+                }
+                if(grid[i][j]==1){
+                    fresh++;
+                }
+                if(grid[i][j]==2){
+                    rotten++;
+                }
+            }
         }
-        if(r==1 && c==1 && grid[0][0]==1){
+        if(rotten ==0  && fresh==0){
+            return 0;
+
+
+        }
+        if(rotten ==0 && fresh!=0){
             return -1;
+
         }
-        if(r==1 && c==4 && grid[0][0]==0 && grid[0][1]==0 && grid[0][2]==0 && grid[0][3]==0){
-            return 0;
-            
-        }
+        
+        
+        
         
         queue<pair<int, int>> q;
         for (int i = 0; i < r; i++) {
