@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/2021ucs0088/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1396-count-servers-that-communicate](https://github.com/2021ucs0088/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1418-fair-distribution-of-cookies](https://github.com/2021ucs0088/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1435-xor-queries-of-a-subarray](https://github.com/2021ucs0088/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/2021ucs0088/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/2021ucs0088/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1435-xor-queries-of-a-subarray](https://github.com/2021ucs0088/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/2021ucs0088/leetcode/tree/master/0878-shifting-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/2021ucs0088/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2021ucs0088/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/2021ucs0088/leetcode/tree/master/2145-grid-game) |
