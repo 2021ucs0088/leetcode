@@ -16,27 +16,26 @@ public:
         if (root==nullptr){
             return result;
         }
-        
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
             int n=q.size();
-            int maxno=INT_MIN;
-            for(int i=0;i<n;i++){
+            int mx=INT_MIN;
+            for (int i=0;i<n;i++){
                 TreeNode*node=q.front();
                 q.pop();
-                maxno=max(maxno,node->val);
-                if(node->left){
+                mx=max(mx,node->val);
+                if (node->left){
                     q.push(node->left);
                 }
-                if(node->right){
+                if (node->right){
                     q.push(node->right);
                 }
 
             }
-            result.push_back(maxno);
+            result.push_back(mx);
         }
+        
         return result;
     }
-
 };
