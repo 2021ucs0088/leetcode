@@ -7,21 +7,19 @@ public:
                 st.push(c);
             }
             else{
-                char t=st.top();
-                if(c==')' && t=='('){
+                char top=st.top();
+                if(top=='(' && c==')'){
                     st.pop();
                 }
-                else if(c=='}' && t=='{'){
+                else if(top=='{' && c=='}'){
                     st.pop();
                 }
-                else if(c==']' && t=='['){
+                else if(top=='[' && c==']'){
                     st.pop();
                 }
                 else{
                     st.push(c);
                 }
-
-
             }
         }
         if(st.empty()){
