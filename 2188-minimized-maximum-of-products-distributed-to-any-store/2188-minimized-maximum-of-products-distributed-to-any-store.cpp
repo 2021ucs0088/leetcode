@@ -1,33 +1,30 @@
 class Solution {
 public:
     int minimizedMaximum(int n, vector<int>& quantities) {
-        long long start=1;
-        long long end=1e5;
-        long long ans=end;
-        while(start<=end){
-            long long mid=start+(end-start)/2;
-            if (func(quantities,mid,n)){
+        long long left=1;
+        long long right=1e5;
+        long long ans=right;
+        while(left<=right){
+            long long mid=left+(right-left)/2;
+            if(func(quantities,n,mid)){
                 ans=mid;
-                end=mid-1;
-
-
+                right=mid-1;
             }
             else{
-                start=mid+1;
+                left=mid+1;
             }
-
 
         }
         return ans;
-        
-    }
-    bool func(vector<int>& quantities,long long mid,int n){
-        int store=0;
-        for (int i=0;i<quantities.size();i++){
-            store+=(quantities[i]+mid-1)/mid;
-        }
-        return store<=n;
-    }
 
+    }
+    bool func(vector<int>& quantities ,int n ,long long mid){
+        int count=0;
+        for(int i=0;i<quantities.size();i++){
+            count+=(quantities[i]+mid-1)/mid;
+
+        }
+        return count<=n;
+    }
 
 };
