@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/2021ucs0088/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/2021ucs0088/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/2021ucs0088/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/2021ucs0088/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/2021ucs0088/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Union Find
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/2021ucs0088/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/2021ucs0088/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
