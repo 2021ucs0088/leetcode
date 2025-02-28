@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/2021ucs0088/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/2021ucs0088/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/2021ucs0088/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/2021ucs0088/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2342-minimum-average-difference](https://github.com/2021ucs0088/leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/2021ucs0088/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/2021ucs0088/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/2021ucs0088/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/2021ucs0088/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2021ucs0088/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/2021ucs0088/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/2021ucs0088/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/2021ucs0088/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/2021ucs0088/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/2021ucs0088/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Stack
