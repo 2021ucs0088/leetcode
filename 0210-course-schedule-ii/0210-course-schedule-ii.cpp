@@ -24,7 +24,10 @@ public:
                 }
             }
         }
-        return ans;
+        if(ans.size()==numCourses){
+            return ans;
+        }
+        return {};
         
     }
 };
