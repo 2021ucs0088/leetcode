@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2465-shifting-letters-ii](https://github.com/2021ucs0088/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/2021ucs0088/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/2021ucs0088/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/2021ucs0088/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/2021ucs0088/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/2021ucs0088/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Sliding Window
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/2021ucs0088/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/2021ucs0088/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/2021ucs0088/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/2021ucs0088/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/2021ucs0088/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2021ucs0088/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/2021ucs0088/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
