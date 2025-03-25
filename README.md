@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/2021ucs0088/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2021ucs0088/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/2021ucs0088/leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/2021ucs0088/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/2021ucs0088/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/2021ucs0088/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/2021ucs0088/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/2021ucs0088/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/2021ucs0088/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/2021ucs0088/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2021ucs0088/leetcode/tree/master/0090-subsets-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/2021ucs0088/leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/2021ucs0088/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/2021ucs0088/leetcode/tree/master/0455-assign-cookies) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2021ucs0088/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2021ucs0088/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/2021ucs0088/leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2021ucs0088/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/2021ucs0088/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
