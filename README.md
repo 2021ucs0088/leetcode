@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/2021ucs0088/leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/2021ucs0088/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/2021ucs0088/leetcode/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/2021ucs0088/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/2021ucs0088/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/2021ucs0088/leetcode/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2021ucs0088/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/2021ucs0088/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2021ucs0088/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2021ucs0088/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/2021ucs0088/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/2021ucs0088/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/2021ucs0088/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
