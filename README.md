@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/2021ucs0088/leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/2021ucs0088/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/2021ucs0088/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/2021ucs0088/leetcode/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/2021ucs0088/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/2021ucs0088/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/2021ucs0088/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/2021ucs0088/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/2021ucs0088/leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2021ucs0088/leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/2021ucs0088/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/2021ucs0088/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/2021ucs0088/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/2021ucs0088/leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/2021ucs0088/leetcode/tree/master/0189-rotate-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/2021ucs0088/leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/2021ucs0088/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2021ucs0088/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/2021ucs0088/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/2021ucs0088/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/2021ucs0088/leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2021ucs0088/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/2021ucs0088/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/2021ucs0088/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2021ucs0088/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/2021ucs0088/leetcode/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
