@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/2021ucs0088/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/2021ucs0088/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/2021ucs0088/leetcode/tree/master/0463-island-perimeter) |
+| [0523-continuous-subarray-sum](https://github.com/2021ucs0088/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/2021ucs0088/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2021ucs0088/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/2021ucs0088/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/2021ucs0088/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/2021ucs0088/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/2021ucs0088/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/2021ucs0088/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/2021ucs0088/leetcode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/2021ucs0088/leetcode/tree/master/0264-ugly-number-ii) |
+| [0523-continuous-subarray-sum](https://github.com/2021ucs0088/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2021ucs0088/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/2021ucs0088/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/2021ucs0088/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0878-shifting-letters](https://github.com/2021ucs0088/leetcode/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/2021ucs0088/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2021ucs0088/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
