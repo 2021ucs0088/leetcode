@@ -5,24 +5,19 @@ public:
         for(int num:nums){
             mp[num]=1;
         }
-        if(nums.size()==0){
-            return 0;
-        }
-        int maxl=1;
+        int ans=0;
         while(!mp.empty()){
             int first=mp.begin()->first;
-            int current=1;
+            int count=1;
             mp.erase(first);
-            while(mp.find(first+1) !=mp.end()){
-                first++;
+            while(mp.find(first+1)!=mp.end()){
+                count++;
                 mp.erase(first);
-                
-                current++;
-
+                first++;
             }
-            maxl=max(maxl,current);
-        }
-        return maxl;
+            ans=max(ans,count);
 
+        }
+        return ans;
     }
 };
