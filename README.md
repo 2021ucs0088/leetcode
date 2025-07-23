@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/2021ucs0088/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/2021ucs0088/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/2021ucs0088/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/2021ucs0088/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Backtracking
 |  |
 | ------- |
