@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/2021ucs0088/leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/2021ucs0088/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/2021ucs0088/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/2021ucs0088/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/2021ucs0088/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2021ucs0088/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/2021ucs0088/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
