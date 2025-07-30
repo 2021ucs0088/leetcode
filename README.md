@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/2021ucs0088/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/2021ucs0088/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/2021ucs0088/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/2021ucs0088/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/2021ucs0088/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2021ucs0088/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/2021ucs0088/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/2021ucs0088/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/2021ucs0088/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/2021ucs0088/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2021ucs0088/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/2021ucs0088/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/2021ucs0088/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/2021ucs0088/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/2021ucs0088/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/2021ucs0088/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Combinatorics
 |  |
 | ------- |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/1524-string-matching-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/2021ucs0088/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
