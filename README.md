@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/2021ucs0088/leetcode/tree/master/0735-asteroid-collision) |
 | [0878-shifting-letters](https://github.com/2021ucs0088/leetcode/tree/master/0878-shifting-letters) |
 | [0901-advantage-shuffle](https://github.com/2021ucs0088/leetcode/tree/master/0901-advantage-shuffle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/2021ucs0088/leetcode/tree/master/0735-asteroid-collision) |
 | [2386-min-max-game](https://github.com/2021ucs0088/leetcode/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/2021ucs0088/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/2021ucs0088/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/2021ucs0088/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0735-asteroid-collision](https://github.com/2021ucs0088/leetcode/tree/master/0735-asteroid-collision) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/2021ucs0088/leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/2021ucs0088/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/2021ucs0088/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
