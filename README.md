@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/2021ucs0088/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/2021ucs0088/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/2021ucs0088/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/2021ucs0088/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/2021ucs0088/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/2021ucs0088/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2021ucs0088/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/2021ucs0088/leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3311-ant-on-the-boundary](https://github.com/2021ucs0088/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/2021ucs0088/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/2021ucs0088/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/2021ucs0088/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/2021ucs0088/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3311-ant-on-the-boundary](https://github.com/2021ucs0088/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/2021ucs0088/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bucket Sort
 |  |
 | ------- |
