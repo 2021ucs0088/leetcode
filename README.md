@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2021ucs0088/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/2021ucs0088/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/2021ucs0088/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2021ucs0088/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2021ucs0088/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/2021ucs0088/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/2021ucs0088/leetcode/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/2021ucs0088/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2021ucs0088/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/2021ucs0088/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/2021ucs0088/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/2021ucs0088/leetcode/tree/master/2383-add-two-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/2021ucs0088/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
