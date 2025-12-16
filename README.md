@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2021ucs0088/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/2021ucs0088/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/2021ucs0088/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/2021ucs0088/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2021ucs0088/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/2021ucs0088/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/2021ucs0088/leetcode/tree/master/1036-rotting-oranges) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/2021ucs0088/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/2021ucs0088/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/2021ucs0088/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/2021ucs0088/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/2021ucs0088/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/2021ucs0088/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/2021ucs0088/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/2021ucs0088/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/2021ucs0088/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/2021ucs0088/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
