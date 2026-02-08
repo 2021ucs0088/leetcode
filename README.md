@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/2021ucs0088/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/2021ucs0088/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/2021ucs0088/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/2021ucs0088/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/2021ucs0088/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/2021ucs0088/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/2021ucs0088/leetcode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/2021ucs0088/leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/2021ucs0088/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/2021ucs0088/leetcode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/2021ucs0088/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2021ucs0088/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/2021ucs0088/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/2021ucs0088/leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/2021ucs0088/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/2021ucs0088/leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/2021ucs0088/leetcode/tree/master/0813-all-paths-from-source-to-target) |
